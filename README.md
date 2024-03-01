@@ -1,5 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ykeshia Zamore ======================================================================================================================================  Back End Software Engineer --------------------------  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ykeshia Zamore 
+======================================================================================================================================
+Back End Software Engineer 
+--------------------------
 I am a Back End Software Engineer and I love JAVA ❤️  
+
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Ykeshia's World](http://ykeshiazamore-portfolio.com)
