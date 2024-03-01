@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ykeshia Zamore ======================================================================================================================================  Back End Software Engineer --------------------------  I am a Back End Software Engineer and I love JAVA ❤️  * 🌍  I'm based in Dallas, TX * 🖥️  See my portfolio at [Ykeshia's World](http://ykeshiazamore-portfolio.com) * ✉️  You can contact me at [yzamore@gmail.com](mailto:yzamore@gmail.com) * 🤝  I'm open to collaborating on Projects * ⚡  I'm secretly a baker cosplaying as a Software Engineer. Ask me for my masterpieces. 🧁
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ykeshia Zamore ======================================================================================================================================  Back End Software Engineer --------------------------  
+I am a Back End Software Engineer and I love JAVA ❤️  
+
+* 🌍  I'm based in Dallas, TX
+* 🖥️  See my portfolio at [Ykeshia's World](http://ykeshiazamore-portfolio.com)
+* ✉️  You can contact me at [yzamore@gmail.com](mailto:yzamore@gmail.com)
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I'm secretly a baker cosplaying as a Software Engineer. Ask me for my masterpieces. 🧁
+
 
 ### Skills  
 
